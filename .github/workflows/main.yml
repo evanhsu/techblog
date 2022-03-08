@@ -23,11 +23,8 @@ jobs:
       # Checks-out your repository under $GITHUB_WORKSPACE, so your job can access it
       - uses: actions/checkout@v2
 
-      - name: Build the site
-        run: yarn && yarn build
-
-      - name: Move built site into the docs folder
-        run: rm -rf docs && git mv build docs
+      - name: Build the site and move it into the /docs folder
+        run: yarn && yarn build && rm -rf docs && git mv build docs
 
       - name: Move static assets to gh-pages branch
         run: git stash && git checkout gh-pages && git stash pop

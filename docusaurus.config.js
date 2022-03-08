@@ -8,8 +8,8 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 const config = {
   title: 'Field Notes',
   tagline: 'Software engineering notes from the field',
-  url: 'https://smirksoftware.com',
-  baseUrl: '/',
+  url: 'https://evanhsu.github.io',
+  baseUrl: '/techblog/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
   favicon: 'img/favicon.ico',

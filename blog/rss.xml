@@ -2,14 +2,14 @@
 <rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
     <channel>
         <title>Field Notes Blog</title>
-        <link>https://smirksoftware.com/blog</link>
+        <link>https://evanhsu.github.io/techblog/blog</link>
         <description>Field Notes Blog</description>
         <lastBuildDate>Mon, 07 Mar 2022 00:00:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
             <title><![CDATA[How to use Docusaurus]]></title>
-            <link>https://smirksoftware.com/blog/how-to-use-docusaurus</link>
+            <link>https://evanhsu.github.io/techblog/blog/how-to-use-docusaurus</link>
             <guid>how-to-use-docusaurus</guid>
             <pubDate>Mon, 07 Mar 2022 00:00:00 GMT</pubDate>
             <description><![CDATA[How to test the docusaurus feature set]]></description>

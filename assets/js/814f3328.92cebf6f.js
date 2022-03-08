@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunktechblog=self.webpackChunktechblog||[]).push([[535],{5641:function(e){e.exports=JSON.parse('{"title":"Recent posts","items":[{"title":"How to use Docusaurus","permalink":"/blog/how-to-use-docusaurus"}]}')}}]);

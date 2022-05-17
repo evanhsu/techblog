@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunktechblog=self.webpackChunktechblog||[]).push([[535],{5641:function(e){e.exports=JSON.parse('{"title":"Recent posts","items":[{"title":"The Alias Alias","permalink":"/techblog/blog/the-alias-alias"},{"title":"How to use Docusaurus","permalink":"/techblog/blog/how-to-use-docusaurus"}]}')}}]);

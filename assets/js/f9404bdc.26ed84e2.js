@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunktechblog=self.webpackChunktechblog||[]).push([[378],{930:function(e){e.exports=JSON.parse('{"allTagsPath":"/techblog/blog/tags","slug":"/techblog/blog/tags/terminal","name":"terminal","count":1,"permalink":"/techblog/blog/tags/terminal"}')}}]);

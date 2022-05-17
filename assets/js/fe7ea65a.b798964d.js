@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunktechblog=self.webpackChunktechblog||[]).push([[817],{5496:function(l){l.exports=JSON.parse('{"allTagsPath":"/techblog/blog/tags","slug":"/techblog/blog/tags/workflow","name":"workflow","count":1,"permalink":"/techblog/blog/tags/workflow"}')}}]);
